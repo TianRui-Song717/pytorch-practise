@@ -21,7 +21,7 @@ Practise pytorch coding （https://github.com/yunjey/pytorch-tutorial)
   - Residual Connection
 4. **Bi-directional Recurrent Neural Network**
 5. **Language Model**
-  - Create Vocabulary Dictionary
-  - Simple Text Tokenization
-  - Word embedding in NN
-  - *TODO: Understanding the input & target when training the LM*
+    * Create Vocabulary Dictionary
+    * Simple Text Tokenization
+    * Word embedding in NN
+    * TODO: Understanding the input & target when training the LM*
