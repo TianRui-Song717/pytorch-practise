@@ -24,4 +24,4 @@ Practise pytorch coding （https://github.com/yunjey/pytorch-tutorial)
     * Create Vocabulary Dictionary
     * Simple Text Tokenization
     * Word embedding in NN
-    * TODO: Understanding the input & target when training the LM*
+    * *TODO: Understanding the input & target when training the LM*
